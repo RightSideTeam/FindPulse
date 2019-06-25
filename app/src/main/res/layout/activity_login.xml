@@ -82,10 +82,17 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="20dp"
-        android:background="@color/fillColor"
+        android:background="@color/azulClaro"
         android:fontFamily="@font/carter_one"
         android:gravity="center"
         android:text="Logar"
-        android:textColor="#000000" />
+        android:textColor="@color/Branco" />
+    <!--<Button-->
+        <!--android:id="@+id/buttonLogar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Logar"-->
+        <!--android:padding="16dp"-->
+        <!--android:theme="@style/botaoPadrao"/>-->
 
 </LinearLayout>
